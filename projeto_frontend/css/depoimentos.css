@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(59, 116, 180);
+}
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-slider-single2{
+    float: left;
+    background-color:white;
+    text-align: center;
+    padding:15px;
+    border-radius:10px;
+}
+.container-slider-single p{
+    margin:15px 0;
+    color:#7E92AC;
+    font-size: 14px;
+}
